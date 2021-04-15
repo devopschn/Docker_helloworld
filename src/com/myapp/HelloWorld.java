@@ -3,5 +3,6 @@ package com.myapp;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World is running in CircleCI");
+        System.out.println("Hello World is running in Jenkins");
     }
 }
